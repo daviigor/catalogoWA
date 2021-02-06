@@ -1,0 +1,34 @@
+Running at Port 3001
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/produto
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria/
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/produto
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria/
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/produto
+ERRO: Error: connect ECONNREFUSED 127.0.0.1:57403
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria/
+ERRO: Error: connect ECONNREFUSED 127.0.0.1:57403
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria
+ERRO: Error: connect ECONNREFUSED 127.0.0.1:57403
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria
+ERRO: Error: connect ECONNREFUSED 127.0.0.1:57403
+"DATA-------------->{}"
+Metodo: GET
+URL AJAX: http://localhost:57403/api/categoria
+ERRO: Error: connect ECONNREFUSED 127.0.0.1:57403
+Running at Port 3001

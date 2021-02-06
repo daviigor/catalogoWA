@@ -1,0 +1,30 @@
+2021-02-05 20:57:08 - Stopping catalogotestecitel.exe
+2021-02-05 20:57:08 - ProcessKill 17436
+2021-02-05 20:57:08 - Found child process: 13548 Name: conhost.exe
+2021-02-05 20:57:08 - Found child process: 15772 Name: node.exe
+2021-02-05 20:57:09 - Stopping process 13548
+2021-02-05 20:57:09 - Send SIGINT 13548
+2021-02-05 20:57:09 - SIGINT to 13548 failed - Killing as fallback
+2021-02-05 20:57:09 - Stopping process 15772
+2021-02-05 20:57:09 - Send SIGINT 15772
+2021-02-05 20:57:09 - SIGINT to 15772 failed - Killing as fallback
+2021-02-05 20:57:09 - Stopping process 17436
+2021-02-05 20:57:09 - Send SIGINT 17436
+2021-02-05 20:57:09 - SIGINT to 17436 failed - Killing as fallback
+2021-02-05 20:57:09 - Finished catalogotestecitel.exe
+2021-02-05 20:57:41 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\Davi\Documents\Projetos\CatalogoWA\node_modules\node-windows\lib\wrapper.js --file C:\Users\Davi\Documents\Projetos\CatalogoWA\index.js --scriptoptions= --log "CatalogoTesteCitel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-02-05 20:57:41 - Started 8188
+2021-02-05 20:58:55 - Stopping catalogotestecitel.exe
+2021-02-05 20:58:55 - ProcessKill 8188
+2021-02-05 20:58:55 - Found child process: 27604 Name: conhost.exe
+2021-02-05 20:58:55 - Found child process: 7100 Name: node.exe
+2021-02-05 20:58:55 - Stopping process 27604
+2021-02-05 20:58:55 - Send SIGINT 27604
+2021-02-05 20:58:55 - SIGINT to 27604 failed - Killing as fallback
+2021-02-05 20:58:56 - Stopping process 7100
+2021-02-05 20:58:56 - Send SIGINT 7100
+2021-02-05 20:58:56 - SIGINT to 7100 failed - Killing as fallback
+2021-02-05 20:58:56 - Stopping process 8188
+2021-02-05 20:58:56 - Send SIGINT 8188
+2021-02-05 20:58:56 - SIGINT to 8188 failed - Killing as fallback
+2021-02-05 20:58:56 - Finished catalogotestecitel.exe

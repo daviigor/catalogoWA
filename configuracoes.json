@@ -1,0 +1,6 @@
+{
+    "configuracoes_cadastros": {
+        "url_base": "http://localhost",
+        "porta": "57403"
+    }
+}
